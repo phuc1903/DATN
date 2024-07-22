@@ -43,7 +43,7 @@ This project is built using the following technologies:
 Clone the project
 
 ```bash
-git clone git@github.com:phuc1903/serein-fullstack.git
+git clone git@github.com:phuc1903/DATN.git
 ```
 
 Go to the project directory
