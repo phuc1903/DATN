@@ -1,8 +1,5 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  eslint: {
-    ignoreDuringBuilds: true,
-  },
   images: {
     domains: ["quantri-zbeauty.tranhuuhiep2004.id.vn"],
     remotePatterns: [
@@ -20,6 +17,6 @@ const nextConfig = {
       },
     ],
   },
-};
+}
 
-module.exports = nextConfig; 
+module.exports = nextConfig 
